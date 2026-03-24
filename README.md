@@ -37,8 +37,11 @@ Tableau → Interactive dashboard visualization
 This project follows a structured and consistent data pipeline:
 
 Data cleaning and feature engineering were performed using SQL
+
 The processed dataset was exported as a structured table
+
 This SQL output was used in Python for exploratory data analysis and validation
+
 The same refined dataset was used in Tableau for dashboard creation
 
 ##### The SQL-transformed dataset was maintained as the single source of truth, ensuring consistency and reliability across all stages of analysis.
@@ -57,11 +60,15 @@ Attrition Rate: 16.12% /
 Average Salary: 6,503
 
 ## Key Insights
-Employees in the low-income group (~28.6%) have the highest attrition
-Employees working overtime (~30.5%) are nearly 3x more likely to leave
-Poor work-life balance (~19.6%) significantly increases attrition
-Employees with 0–2 years experience (~27.9%) show the highest attrition
-Low job satisfaction (~19.7%) strongly correlates with employee exits
+-Employees in the low-income group (~28.6%) have the highest attrition
+
+-Employees working overtime (~30.5%) are nearly 3x more likely to leave
+
+-Poor work-life balance (~19.6%) significantly increases attrition
+
+-Employees with 0–2 years experience (~27.9%) show the highest attrition
+
+-Low job satisfaction (~19.7%) strongly correlates with employee exits
 
 ## High-Risk Employee Segments
 
@@ -70,6 +77,7 @@ Attrition is driven by a combination of factors rather than a single variable.
 The most critical high-risk segments identified:
 
 🔴 Low Income + Overtime + Low Satisfaction → Highest Risk
+
 🔴 New Employees + Poor Work-Life Balance → High Risk
 
 #### These segments represent employees with the highest probability of leaving, making them key targets for retention strategies.
@@ -78,30 +86,44 @@ The most critical high-risk segments identified:
 
 Based on the analysis, the following strategies are recommended:
 
-Improve compensation structure for low-income employees
-Reduce excessive overtime to prevent burnout
-Enhance work-life balance through flexible policies
-Strengthen onboarding and engagement for new employees
-Improve promotion and career growth processes
+-Improve compensation structure for low-income employees
+
+-Reduce excessive overtime to prevent burnout
+
+-Enhance work-life balance through flexible policies
+
+-Strengthen onboarding and engagement for new employees
+
+-Improve promotion and career growth processes
 
 ## Project Structure
 📁 Employee-Attrition-Analysis
+
 │──  HR-Employee-Attrition.sql
+
 │──  Hr_Employee_Attrition.ipynb
+
 │──  Dashboard-image.png 
+
 │──  Employee_Attrition_Report.pdf
+
 │── 📁 Dataset (CSV/Excel)
+
 │──  Detailed Report
 
 For complete analysis and business insights:
 #### Employee_Attrition_Report.pdf
 
 ## Key Highlights
-End-to-end analytics workflow (SQL → Python → Tableau)
-Strong feature engineering for behavioral segmentation
-Identification of high-risk employee groups
-Focus on business insights and decision-making
-Structured and reproducible data pipeline
+-End-to-end analytics workflow (SQL → Python → Tableau)
+
+-Strong feature engineering for behavioral segmentation
+
+-Identification of high-risk employee groups
+
+-Focus on business insights and decision-making
+
+-Structured and reproducible data pipeline
 
 ## Author
 
