@@ -88,7 +88,7 @@ Improve promotion and career growth processes
 │──  Dashboard-image.png 
 │──  Employee_Attrition_Report.pdf
 │── 📁 Dataset (CSV/Excel)
- Detailed Report
+│──  Detailed Report
 
 For complete analysis and business insights:
 #### Employee_Attrition_Report.pdf
