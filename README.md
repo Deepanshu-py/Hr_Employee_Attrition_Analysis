@@ -10,23 +10,26 @@ The analysis integrates SQL (data transformation), Python (EDA), and Tableau (vi
 
 Employee attrition is a major challenge for organizations as it leads to:
 
-Increased recruitment and training costs
-Loss of experienced employees
-Reduced productivity and team stability
+-Increased recruitment and training costs.
+-Loss of experienced employees.
+-Reduced productivity and team stability.
 
 This project aims to:
 
-Identify who is leaving
-Understand why employees leave
-Provide actionable strategies to improve retention
+-Identify who is leaving.
+-Understand why employees leave.
+-Provide actionable strategies to improve retention.
 
 ## Dataset
 Dataset sourced from Kaggle (HR Employee Attrition Dataset)
+
 Contains employee-level data including demographics, job roles, compensation, and satisfaction metrics
 
 ## Tools & Technologies
 SQL → Data cleaning, transformation, feature engineering
+
 Python (Pandas, Matplotlib, Seaborn) → Exploratory Data Analysis
+
 Tableau → Interactive dashboard visualization
 
 ## Data Processing Workflow
@@ -48,9 +51,9 @@ The same refined dataset was used in Tableau for dashboard creation
 https://public.tableau.com/shared/8G7FH8ZP9?:display_count=n&:origin=viz_share_link
 
 ## Key Metrics
-Total Employees: 1,470
-Employees Left: 237
-Attrition Rate: 16.12%
+Total Employees: 1,470 /
+Employees Left: 237 /
+Attrition Rate: 16.12% /
 Average Salary: 6,503
 
 ## Key Insights
