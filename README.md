@@ -127,7 +127,8 @@ For complete analysis and business insights:
 
 ## Author
 
-Deepanshu Rajput
+Deepanshu 
+
 Data Analyst | SQL | Python | Tableau
 
 ## Support
