@@ -47,6 +47,8 @@ The same refined dataset was used in Tableau for dashboard creation
 ##### The SQL-transformed dataset was maintained as the single source of truth, ensuring consistency and reliability across all stages of analysis.
 
 ## Dashboard Preview
+<img width="1300" height="815" alt="Dashboard-Image" src="https://github.com/user-attachments/assets/ce898eaa-deca-4935-8b47-0bfc9a0bd710" />
+
 
 ## Live Tableau Dashboard
 
