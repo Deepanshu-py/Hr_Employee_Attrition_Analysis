@@ -1,4 +1,4 @@
-# Employee Attrition Analysis & Retention Strategy
+# HR Analytics Dashboard: Employee Attrition & Insights
 
 ## Project Overview
 
